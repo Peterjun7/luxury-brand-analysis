@@ -5,7 +5,7 @@
 
 <br>
 
-## 🛠 기술 스택
+## 기술 스택
 - **Language**: Python 3
 - **Data Analysis**: `pandas`, `numpy`, `scipy`
 - **Visualization**: `matplotlib`, `folium`
@@ -13,7 +13,7 @@
 
 <br>
 
-## 📁 파일 구조 및 상세 설명
+## 파일 구조 및 상세 설명
 
 프로젝트는 크게 **[데이터 수집] - [전처리] - [분석 및 시각화]** 3단계로 구성되어 있습니다.
 
